@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="Main" extends="Scene">
+	<children>
+        <Poster id="background" uri="pkg:/images/wallpaper.jpg" width="1280" height="720" />
+        <Label id="appTitle" width="1280" height="660"  horizAlign="left" vertAlign="left" />
+        <Label id="appVersion" width="1280" height="690"  horizAlign="left" vertAlign="left" />
+        <Label id="appDevId" width="1280" height="720"  horizAlign="left" vertAlign="left" />
+    </children>
+    <script type="text/brightscript" >
+        <![CDATA[
+
+        function init()
+            appInfo = CreateObject("roAppInfo")
+            m.top.setFocus(true)
+
+            m.appTitle = m.top.findNode("appTitle")
+            m.appVersion = m.top.findNode("appVersion")
+            m.appDevId = m.top.findNode("appDevId")
+
+            m.appTitle.text = "Title: " + appInfo.GetTitle()
+            m.appTitle.color = "0x000000"
+            
+            m.appVersion.text = "Version: " + appInfo.GetVersion()
+            m.appVersion.color = "0x000000"
+            
+            m.appDevId.text = "Development ID: " + appInfo.GetDevID()
+            m.appDevId.color = "0x000000"
+        end function
+        ]]>
+    </script>
+</component>

@@ -1,0 +1,13 @@
+# Copyright (c) 2023, azazelm3dj3d (https://github.com/azazelm3dj3d)
+# License: MIT
+# Authors: azazelm3dj3d (https://github.com/azazelm3dj3d)
+
+title=ROKU_EXP_v1_001
+major_version=1
+minor_version=0
+build_version=001
+
+# This is just my GitHub avatar as the icon
+mm_icon_focus_hd=https://avatars.githubusercontent.com/u/56496067
+
+ui_resolutions=hd
