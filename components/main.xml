@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <component name="Main" extends="Scene">
 	<children>
-        <Poster id="background" uri="https://raw.githubusercontent.com/azazelm3dj3d/roku_exp/87e3b8b9db52d0d6a66368650b1cd18ef607adb3/images/wallpaper.jpg" width="1280" height="720" />
+        <Poster id="background" uri="https://raw.githubusercontent.com/battleoverflow/roku_exp/87e3b8b9db52d0d6a66368650b1cd18ef607adb3/images/wallpaper.jpg" width="1280" height="720" />
         <Label id="appTitle" width="1280" height="660"  horizAlign="left" vertAlign="left" />
         <Label id="appVersion" width="1280" height="690"  horizAlign="left" vertAlign="left" />
         <Label id="appDevId" width="1280" height="720"  horizAlign="left" vertAlign="left" />

@@ -1,6 +1,6 @@
-# Copyright (c) 2023, azazelm3dj3d (https://github.com/azazelm3dj3d)
+# Copyright (c) 2023, battleoverflow (https://github.com/battleoverflow)
 # License: MIT
-# Authors: azazelm3dj3d (https://github.com/azazelm3dj3d)
+# Authors: battleoverflow (https://github.com/battleoverflow)
 
 # Generate a zip to upload through the Roku developer portal
 # May eventually expand to upload to the Roku TV remotely as well instead of requiring a zip upload within the UI

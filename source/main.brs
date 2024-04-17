@@ -1,7 +1,7 @@
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' Copyright (c) 2023, azazelm3dj3d (https://github.com/azazelm3dj3d) '
+' Copyright (c) 2023, battleoverflow (https://github.com/battleoverflow) '
 ' License: MIT                                                       '
-' Authors: azazelm3dj3d (https://github.com/azazelm3dj3d)            '
+' Authors: battleoverflow (https://github.com/battleoverflow)            '
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ' Display information about the app
